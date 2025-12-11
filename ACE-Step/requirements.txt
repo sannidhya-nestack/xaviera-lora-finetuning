@@ -1,0 +1,29 @@
+datasets==3.4.1
+diffusers>=0.33.0
+gradio
+librosa==0.11.0
+loguru==0.7.3
+matplotlib==3.10.1
+# numpy 2.0+ breaks torch 2.1; pin to <2 to avoid ABI/runtime issues
+numpy==1.26.4
+pypinyin==0.53.0
+pytorch_lightning==2.5.1
+soundfile==0.13.1
+# Pin torch/torchvision/torchaudio to a matching CUDA build that exposes torch.xpu
+torch==2.4.1
+torchaudio==2.4.1
+torchvision==0.19.1
+tqdm
+transformers==4.45.1
+py3langid==0.2.0
+hangul-romanize==0.1.0
+num2words==0.5.14
+spacy==3.8.4
+accelerate==1.6.0
+cutlet
+fugashi[unidic-lite]
+click
+peft==0.17.1
+tensorboard
+tensorboardX
+audiobox_aesthetics
