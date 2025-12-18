@@ -1,0 +1,1 @@
+Animal, Instrumental, Guitar, Drums, Bass, Mandolin, Piano, Theremin, Viola, Violin, Bass Guitar, Aggressive, Animated, Cheeky, Cheerful, Childish, Climactic, Freaky, Frisky, Fun, Funny, Hectic, Hurt, Jangly, Joyful, Moving, Playful, Rebellious, Ugly, Wicked, Wild, 100 bpm, bMinor

@@ -1,0 +1,1 @@
+Animal, Animal Vocal, Drums, Synthesizer, Electronics, Bright, Buoyant, Celebratory, Curious, Delighted, Driving, Energetic, Fun, Funky, Groovy, Happy, Rhythmic, Rousing, Sneaky, Spirited, Sprightly, Stimulating, Stirring, Strange, Striking, 126 bpm, aMinor

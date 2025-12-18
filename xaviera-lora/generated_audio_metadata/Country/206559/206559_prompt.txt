@@ -1,0 +1,1 @@
+Country, Animal Vocal, Guitar, Drums, Bass, Electric Guitar, Double Bass, Bouncy, Bright, Carefree, Cheeky, Cheerful, Crazy, Dancing, Drunk, Festive, Fun, Funky, Funny, Groovy, Happy, Joyful, Lively, Playful, Swinging, Wild, 107 bpm, fsMinor

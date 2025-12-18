@@ -1,0 +1,1 @@
+Animal, Instrumental, Computer, Drum Machine, Sampler, Synthesizer, Electronics, Bass Guitar, Keyboard, Abstract, Animated, Bouncy, Busy, Curious, Dancing, Determined, Excited, Fast, Frantic, Fun, Hectic, Lively, Pulsating, Restless, Simple, Stimulating, Uplifting, Vibrant, Wild, 120 bpm, fMinor

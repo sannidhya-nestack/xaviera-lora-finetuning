@@ -1,0 +1,1 @@
+Animal, Instrumental, Piano, Animated, Atmospheric, Bouncy, Bright, Carefree, Delighted, Dramatic, Elated, Fun, Happy, Jumpy, Lively, Mischievous, Playful, Pulsating, Rhythmic, Sprightly, Vibrant, Warm, Whimsical, 120 bpm, abMajor

@@ -1,0 +1,1 @@
+Animal, Animal Vocal, Drum Machine, Drums, Indigenous Percussion, Organ, Percussion, Tabla, Contrabassoon, Wood block, Aggressive, Animated, Bouncy, Brave, Busy, Chaotic, Dangerous, Determined, Dramatic, Driving, Energetic, Exotic, Frantic, Fun, Intense, Primitive, Quirky, Rhythmic, Strange, Wild, 127 bpm, bbMinor

@@ -1,0 +1,5 @@
+[Dog barking]
+(coyote howling)
+[Coyote howling]
+(dog barking)
+[Dog barking]

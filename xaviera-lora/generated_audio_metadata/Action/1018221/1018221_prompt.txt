@@ -1,0 +1,1 @@
+Action, Vocal Pads, Computer, Drums, Bass, Electric Guitar, Percussion, Sampler, Strings, Synthesizer, Brass section, Choir, Taiko Drums, Bass Drum, Big Toms, Drum, Adventurous, Aggressive, Anxious, Atmospheric, Booming, Dramatic, Epic, Forceful, Heavy, Heroic, Hopeless, Loud, Pompous, Spacious, Strong, Suspenseful, Tension, Terror, Thrilling, Tragic, 120 bpm, dMinor

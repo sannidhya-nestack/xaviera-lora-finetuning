@@ -1,0 +1,1 @@
+Animal, Instrumental, Computer, Drum Kit, Drum Machine, Percussion, Sampler, Strings, Tuba, Electronics, Aggressive, Cool, Crunk, Edgy, Hard, Moving, Rhythmic, Striking, Suspenseful, Wicked, Wild, 90 bpm, dMinor

@@ -1,0 +1,1 @@
+Animal, Instrumental, Cello, Flute, Oboe, Piano, Strings, Viola, Violin, Electronics, Animated, Atmospheric, Bouncy, Childish, Contemplative, Cool, Flowing, Free, Funny, Light, Mellow, Playful, Quirky, Serene, Simple, Smokey, Soaring, Swirling, Whimsical, Wondrous, 84 bpm, cMajor

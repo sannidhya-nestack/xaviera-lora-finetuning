@@ -1,0 +1,1 @@
+Animal, Instrumental, Cello, Strings, Viola, Violin, Violoncello, Alluring, Anticipating, Bittersweet, Careful, Creepy, Dramatic, Earthy, Enchanted, Haunting, Inquisitive, Light, Magical, Mischievous, Purposeful, Questioning, Reflective, Soulful, Stately, Thoughtful, Wholesome, 120 bpm, cMinor

@@ -1,0 +1,1 @@
+Animal, Instrumental, Drums, Bass, Synthesizer, Jolly, Joyful, Meaningful, Suspenseful, Trance, Wild, 110 bpm, gsMinor

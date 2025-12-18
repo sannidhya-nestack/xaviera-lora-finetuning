@@ -1,0 +1,1 @@
+Action, Vocal Pads, Bells, Horns, Piano, Strings, Timbales, Trombone, Trumpet, Choir, Taiko Drums, Bass Drum, Big Toms, Tambour, Aggressive, Brave, Dangerous, Dramatic, Dynamic, Elegant, Emotional, Energetic, Epic, Heroic, Majestic, Positive, Powerful, Solemn, Successful, Tension, Tragic, Triumphant, Uplifting, Wild, 122 bpm, bbMajor

@@ -1,0 +1,1 @@
+Animal, Instrumental, Guitar, Drums, Harmonica, Organ, Double Bass, Abstract, Animated, Bold, Cool, Drunk, Dynamic, Edgy, Energetic, Exotic, Forceful, Greasy, Gritty, Lonely, Moody, Mysterious, Powerful, Proud, Rousing, Smokey, Tough, 120 bpm, dMinor

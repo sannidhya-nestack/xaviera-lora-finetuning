@@ -1,0 +1,1 @@
+Animal, Animal Vocal, Drum Machine, Bass, Strings, Synthesizer, Aggressive, Angry, Anguished, Chaotic, Cheerful, Climactic, Cool, Crazy, Dynamic, Energetic, Groovy, Hypnotic, Intense, Mad, Pulsating, Purposeful, Striking, Surprising, Suspenseful, Wild, 100 bpm, gMajor

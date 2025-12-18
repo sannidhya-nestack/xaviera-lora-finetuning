@@ -1,0 +1,1 @@
+Action, Vocal Pads, Cello, Drums, Horn, Percussion, Strings, Trombone, Tuba, Viola, Violin, Brass section, Choir, Taiko Drums, Big Toms, Adventurous, Booming, Brave, Bright, Climactic, Deep, Dramatic, Driving, Emotional, Enchanted, Energetic, Forceful, Heroic, Marching, Mysterious, Optimistic, Powerful, Pushy, Rhythmic, Risque, 125 bpm, fsMinor

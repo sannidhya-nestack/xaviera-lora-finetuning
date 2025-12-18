@@ -1,0 +1,1 @@
+Country, Male Vocals, Guitar, Drums, Bass, Electric Guitar, Steel Guitar, Percussion, Piano, Vocals, Angry, Anguished, Cold, Confused, Dangerous, Disillusioned, Haunting, Heated, Heavy, Hopeful, Longing, Meditative, Melancholic, Moving, Passionate, Powerful, Serious, Wrong, 90 bpm, bbMajor

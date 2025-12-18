@@ -1,0 +1,1 @@
+Country, Male Vocals, Guitar, Vocals, Aggressive, Angry, Calm, Celebratory, Confrontational, Dangerous, Dynamic, Emotional, Explosive, Fast, Glorious, Haunting, Hopeful, Moving, Passionate, Rebellious, Stimulating, Tension, Terror, Thankful, 121 bpm, gMajor

@@ -1,0 +1,1 @@
+Animal, Animal Vocal, Drums, Bass, Piano, Synthesizer, Confident, Crazy, Fiery, Flirtatious, Forceful, 95 bpm, cMinor

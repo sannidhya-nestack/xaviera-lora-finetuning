@@ -1,0 +1,1 @@
+Animal, Instrumental, Cello, Computer, Cymbals, Drum Kit, Drum Machine, Electic Piano, Organ, Percussion, Sampler, Strings, Synthesizer, Snare drum, Rap, Dramatic, Eerie, Energetic, Hard, Intense, Menacing, Rhythmic, Suspenseful, 78 bpm, aMinor

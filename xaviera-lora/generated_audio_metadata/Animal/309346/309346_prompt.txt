@@ -1,0 +1,1 @@
+Animal, Animal Vocal, Drums, Electric Guitar, Synthesizer, Aggressive, Animated, Chaotic, Cool, Crazy, Dancing, Hard, Hypnotic, Intense, Intricate, Mischievous, Mysterious, Playful, Powerful, Primitive, Repetitive, Rhythmic, Rousing, 120 bpm, abMajor

@@ -1,0 +1,1 @@
+Animal, Instrumental, Gong, Oboe, Percussion, Strings, Synthesizer, Violin, Contrabassoon, Adventurous, Aggressive, Animated, Anxious, Busy, Crazy, Dramatic, Energetic, Frantic, Intense, Lively, Mischievous, Nervous, Playful, Quirky, Restless, Rousing, Strange, Thrilling, Wild, 140 bpm, bMinor

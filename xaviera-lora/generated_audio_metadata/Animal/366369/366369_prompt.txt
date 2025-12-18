@@ -1,0 +1,1 @@
+Animal, Animal Vocal, Computer, Drum Machine, Synthesizer, Angry, Bitter, Chaotic, Cool, Crazy, Defeated, Fast, Fun, Funky, Funny, Jumpy, Mad, Nervous, Playful, Primitive, Pushy, Silly, Strange, Swirling, Whimsical, 105 bpm, fMinor

@@ -1,0 +1,1 @@
+Animal, Instrumental, Contra-bass, Cello, Cymbals, Drum Kit, Organ, Percussion, Strings, Triangle, Viola, Violin, Timpani, Alluring, Anticipating, Cautious, Contemplative, Curious, Dangerous, Determined, Foreboding, Haunting, Hypnotic, Inquisitive, Light, Mysterious, Nervous, Playful, Questioning, Quirky, Secretive, Sneaky, Tension, 204 bpm, gMinor

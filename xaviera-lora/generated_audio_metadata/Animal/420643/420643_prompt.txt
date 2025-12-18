@@ -1,0 +1,1 @@
+Animal, Animal Vocal, Banjo, Cymbals, Drums, Dulcimer, Bass, Harmonica, Percussion, Prepared Piano, Strings, Snare drum, Alto Flute, Animated, Brave, Celebratory, Cheerful, Childish, Crazy, Exotic, Frantic, Freaky, Free, Friendly, Fun, Happy, Hectic, Joyful, Jumpy, Lively, Marching, Playful, Whimsical, 91 bpm, cMajor

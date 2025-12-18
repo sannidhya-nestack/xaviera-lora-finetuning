@@ -1,0 +1,8 @@
+(Dog barks)
+(Horse neighs)
+(Dog barks)
+(Dog barks)
+(Dog barks)
+Bye bye.
+(Dog barking)
+(dog barking)

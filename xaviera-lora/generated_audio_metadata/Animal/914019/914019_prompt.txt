@@ -1,0 +1,1 @@
+Animal, Instrumental, Cello, Chimes, Flute, Marimba, Violin, Bass Clarinet, Tamtam, Abstract, Apprehensive, Atmospheric, Contemplative, Dark, Dreamy, Eerie, Ethereal, Hopeful, Hypnotic, Loving, Meaningful, Quiet, Quirky, Sensual, Subtle, Suspenseful, Tender, Thoughtful, Warm, 60 bpm, ebMajor

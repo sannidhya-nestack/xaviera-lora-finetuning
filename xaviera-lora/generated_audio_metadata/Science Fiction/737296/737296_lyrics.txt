@@ -1,0 +1,7 @@
+We have designed a laboratory so that our experiences can be easily duplicated at other institutions.
+We have restricted ourselves to the use of standard equipment, interfaces and software that is freely available.
+The key outcome of this project is a laboratory manual which is specifically tailored to the use of robotic agents in the context of AI.
+We will be the leading institution for artificial intelligence
+Et ça, c'est completement riche
+We have explored hands-on in the laboratory behavior-based programming. Using this idea, robot programs are constructed as a hierarchy of behavior modules that execute concurrently in multitasking environments.
+Bite me

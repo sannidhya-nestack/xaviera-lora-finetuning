@@ -1,0 +1,1 @@
+Animal, Instrumental, Cello, Clarinet, Piano, Viola, Violin, Abstract, Atmospheric, Beautiful, Climactic, Cold, Deep, Disenchanted, Disillusioned, Dissonant, Dramatic, Drunk, Emotional, Hypnotic, Inspiring, Melancholic, Nervous, Playful, Serious, Sophisticated, Vibrant, 130 bpm, fMinor
